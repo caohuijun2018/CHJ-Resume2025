@@ -1,0 +1,11 @@
+{
+    "markdown.styles": [
+        "./resume.css"
+    ],
+    "markdown-pdf.headerTemplate": "",
+    "markdown-pdf.footerTemplate": "",
+    "markdown-pdf.displayHeaderFooter": false,
+    "markdown-pdf.margin.top": "0.5cm",
+    "markdown-pdf.margin.right": "0.5cm",
+    "markdown-pdf.margin.left": "0.5cm"
+}
